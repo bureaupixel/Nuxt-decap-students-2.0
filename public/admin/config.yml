@@ -173,7 +173,7 @@ collections:
     files:
       - name: 'general'
         label: 'Site Settings'
-        file: '/public/_data/settings.json'
+        file: 'public/_data/settings.json'
         description: 'General settings for the application: title, subtitle, copyright ...'
         fields:
           - { label: 'Global title', name: 'site_title', widget: 'string' }
@@ -181,7 +181,7 @@ collections:
           - { label: 'Copyright indication', name: 'copyright', widget: 'string' }
       - name: 'homepage'
         label: 'Homepage Settings'
-        file: '/public/_data/homepage.json'
+        file: 'public/_data/homepage.json'
         description: 'Settings for the homepage'
         fields:
           - { label: 'Featured Image', name: 'thumbnail', widget: 'image', required: false, hint: 'Choose a picture from the media library for this item. This picture is used as a reference to the item in different layouts.' } 
@@ -197,7 +197,7 @@ collections:
               hint: 'Indicate the link to a page that you want to use as homepage.'}
       - name: 'menu'
         label: 'Menus'
-        file: '/public/_data/menus.json'
+        file: 'public/_data/menus.json'
         fields:
           - label: 'Main Menu Settings'
             name: mainmenu
