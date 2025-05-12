@@ -1,4 +1,4 @@
-The repository Nuxt-decap-students-2.0 by bureaupixel is a modern web development starter kit designed for students in the Media & Information Design program at LUCA School of Arts in Brussels. It integrates several contemporary technologies to facilitate the creation of static websites.
+The repository Nuxt-decap-students-2.0 by bureaupixel is a web development starter kit designed for students. It integrates several contemporary technologies to facilitate the creation of static websites.
 GitHub
 GitHub
 +1
