@@ -1,12 +1,15 @@
-# Nuxt - Decap/NetlifyCMS - Tailwind
+The repository Nuxt-decap-students-2.0 by bureaupixel is a modern web development starter kit designed for students in the Media & Information Design program at LUCA School of Arts in Brussels. It integrates several contemporary technologies to facilitate the creation of static websites.
+GitHub
+GitHub
++1
+GitHub
++1
 
-This template demonstrates the creation of a static site using:
-
-- Nuxt 3
-- Tailwind CSS
-- Decap CMS
-- Nuxt Content (for rendering mdx from decap)
-
+Key Features
+Nuxt 3 Framework: Utilizes the latest version of Nuxt.js, offering server-side rendering and static site generation capabilities.
+Tailwind CSS: Incorporates Tailwind CSS for efficient and responsive styling through utility-first classes.
+Decap CMS: Formerly known as Netlify CMS, Decap CMS provides a user-friendly interface for content management, allowing users to edit content directly within the site. 
+Nuxt Content Module: Enables the use of Markdown and MDX files for content creation, which can be rendered seamlessly within the Nuxt application.
 
 Check out the docs:
 - [Nuxt](https://nuxt.com/docs/getting-started/deployment)
