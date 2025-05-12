@@ -1,9 +1,4 @@
 The repository Nuxt-decap-students-2.0 by bureaupixel is a web development starter kit designed for students. It integrates several contemporary technologies to facilitate the creation of static websites.
-GitHub
-GitHub
-+1
-GitHub
-+1
 
 Key Features
 Nuxt 3 Framework: Utilizes the latest version of Nuxt.js, offering server-side rendering and static site generation capabilities.
